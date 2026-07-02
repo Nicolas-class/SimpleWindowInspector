@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleWindowInspector.UI.Controls
+namespace SimpleWindowInspector.User32
 {
-    class WindowTreeNode : TreeNode
+    class User32WindowObj
     {
     }
 }

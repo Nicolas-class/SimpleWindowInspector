@@ -117,76 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;ms_MainMenuStrip.Name" xml:space="preserve">
-    <value>ms_MainMenuStrip</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
+  <data name="splt_MainSplitter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 24</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ms_MainMenuStrip.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="tsmi_File.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 20</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="&gt;&gt;tsmi_Close.Type" xml:space="preserve">
+  <data name="&gt;&gt;tsmi_ShowOnlyVisibleWindows.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;tsmi_ShowOnlyVisibleWindows.Name" xml:space="preserve">
+    <value>tsmi_ShowOnlyVisibleWindows</value>
   </data>
-  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;tsmi_Filters.Name" xml:space="preserve">
+    <value>tsmi_Filters</value>
   </data>
-  <data name="&gt;&gt;tsmi_File.Type" xml:space="preserve">
+  <data name="&gt;&gt;tsmi_Windows.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;ms_MainMenuStrip.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;tsmi_ExpandFirstLevel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tsmi_ShowOnlyVisibleWindows.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 22</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Spy.Name" xml:space="preserve">
+    <value>tsmi_Spy</value>
+  </data>
+  <data name="&gt;&gt;tsmi_ExpandAll.Name" xml:space="preserve">
+    <value>tsmi_ExpandAll</value>
+  </data>
+  <data name="tsmi_CollapseAll.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 22</value>
+  </data>
+  <data name="&gt;&gt;wtv_MainWindowTreeView.Name" xml:space="preserve">
+    <value>wtv_MainWindowTreeView</value>
   </data>
   <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;ms_MainMenuStrip.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>frmMain</value>
-  </data>
-  <data name="&gt;&gt;tsmi_File.Name" xml:space="preserve">
-    <value>tsmi_File</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="menuStrip1.Text" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="ms_MainMenuStrip.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="wtv_MainWindowTreeView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 24</value>
   </data>
   <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
     <value>744, 24</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="wtv_MainWindowTreeView.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmMain</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Tree.Name" xml:space="preserve">
+    <value>tsmi_Tree</value>
+  </data>
+  <data name="&gt;&gt;tsmi_CollapseAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="tsmi_Close.Size" type="System.Drawing.Size, System.Drawing">
     <value>103, 22</value>
-  </data>
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tsmi_Close.Name" xml:space="preserve">
-    <value>tsmi_Close</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
-    <value>menuStrip1</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>744, 631</value>
@@ -194,6 +182,165 @@
   <data name="&gt;&gt;ms_MainMenuStrip.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
+  <data name="&gt;&gt;tss_sp1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;wtv_MainWindowTreeView.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;splt_MainSplitter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Splitter, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splt_MainSplitter.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tsmi_File.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="threadsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Close.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;processesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="splt_MainSplitter.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="ms_MainMenuStrip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;ms_MainMenuStrip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="tsmi_Find.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 20</value>
+  </data>
+  <data name="tss_sp1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 6</value>
+  </data>
+  <data name="&gt;&gt;tsmi_CollapseAll.Name" xml:space="preserve">
+    <value>tsmi_CollapseAll</value>
+  </data>
+  <data name="tsmi_Tree.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tsmi_ExpandAll.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 22</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;wtv_MainWindowTreeView.Type" xml:space="preserve">
+    <value>SimpleWindowInspector.UI.Controls.WindowTreeView, SimpleWindowInspector, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Find.Name" xml:space="preserve">
+    <value>tsmi_Find</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Spy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;splt_MainSplitter.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;ms_MainMenuStrip.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tss_sp1.Name" xml:space="preserve">
+    <value>tss_sp1</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Close.Name" xml:space="preserve">
+    <value>tsmi_Close</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ms_MainMenuStrip.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tsmi_Filters.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="&gt;&gt;ms_MainMenuStrip.Name" xml:space="preserve">
+    <value>ms_MainMenuStrip</value>
+  </data>
+  <data name="&gt;&gt;tsmi_ExpandAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="processesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="tsmi_ExpandFirstLevel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 22</value>
+  </data>
+  <data name="&gt;&gt;tsmi_ExpandFirstLevel.Name" xml:space="preserve">
+    <value>tsmi_ExpandFirstLevel</value>
+  </data>
+  <data name="&gt;&gt;processesToolStripMenuItem.Name" xml:space="preserve">
+    <value>processesToolStripMenuItem</value>
+  </data>
+  <data name="tsmi_File.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 20</value>
+  </data>
+  <data name="&gt;&gt;wtv_MainWindowTreeView.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tsmi_File.Name" xml:space="preserve">
+    <value>tsmi_File</value>
+  </data>
+  <data name="&gt;&gt;threadsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;threadsToolStripMenuItem.Name" xml:space="preserve">
+    <value>threadsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;splt_MainSplitter.Name" xml:space="preserve">
+    <value>splt_MainSplitter</value>
+  </data>
+  <data name="tsmi_Windows.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Windows.Name" xml:space="preserve">
+    <value>tsmi_Windows</value>
+  </data>
+  <data name="tsmi_Spy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 20</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Tree.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Find.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsmi_Filters.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>en-US</value>
   </metadata>
@@ -202,8 +349,5 @@
   </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
   </metadata>
 </root>

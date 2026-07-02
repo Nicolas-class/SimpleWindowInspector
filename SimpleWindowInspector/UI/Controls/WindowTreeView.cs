@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleWindowInspector.UI.Controls
 {
-    class WindowTreeView
+    class WindowTreeView : TreeView
     {
     }
 }
